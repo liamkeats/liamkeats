@@ -25,6 +25,8 @@ I'm proficient in various technologies and tools, including:
 - 📱 React
 - 🚀 Git
 - 📊 R
+- ☕ Java
+- 🪶 C
 
 <!-- My Projects -->
 ## 🚀 My Projects
@@ -32,7 +34,7 @@ I'm proficient in various technologies and tools, including:
 Here are some of the projects I'm proud of:
 
 - 🌟 [Project 1](https://github.com/liamkeats/project1): Description of the project.
-
+- 
 <!-- Let's Connect -->
 ## 📫 Let's Connect
 
