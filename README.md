@@ -33,12 +33,12 @@ I'm proficient in various technologies and tools, including:
 
 Here are some of the projects I'm proud of:
 
-- 🌟 [Project 1](https://github.com/liamkeats/project1): Description of the project.
+- 🌟 [Project 1]([https://github.com/liamkeats/project1](https://github.com/liamkeats/AI-Picks)): Full discord bot for a mid sized gambling content creator.
 - 
 <!-- Let's Connect -->
 ## 📫 Let's Connect
 
-- 📧 You can reach me at [0307334k@acadiau.ca](mailto:0307334k@acadiau.ca).
+- 📧 You can reach me at [keatsliam@gmail.com](keatsliam@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/liamkeats/).
 
 <!-- Footer -->
