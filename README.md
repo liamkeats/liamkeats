@@ -33,7 +33,7 @@ I'm proficient in various technologies and tools, including:
 
 Here are some of the projects I'm proud of:
 
-- 🌟 [Project 1]([https://github.com/liamkeats/project1](https://github.com/liamkeats/AI-Picks)): Full discord bot for a mid sized gambling content creator.
+- 🌟 [AI Picks Discord Bot]([https://github.com/liamkeats/project1](https://github.com/liamkeats/AI-Picks)): Full discord bot for a mid sized gambling content creator.
 - 
 <!-- Let's Connect -->
 ## 📫 Let's Connect
