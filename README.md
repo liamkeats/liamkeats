@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Liam Keats!
 
 <!-- Introduction -->
-I'm a 3rd-year Computer Science major at Acadia University. I'm passionate about coding, technology, and solving real-world problems. In my free time, I enjoy coding side projects, playing video games, and exploring new technologies.
+I'm a 2nd-year Engineering major at Acadia University. I'm passionate about coding, technology, and solving real-world problems. In my free time, I enjoy coding side projects, playing video games, and exploring new technologies.
 
 <!-- Social Media Links -->
 [![Linkedin: liamkeats](https://img.shields.io/badge/-Liam%20Keats-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liamkeats/)](https://www.linkedin.com/in/liamkeats/)
@@ -11,7 +11,7 @@ I'm a 3rd-year Computer Science major at Acadia University. I'm passionate about
 <!-- About Me -->
 ## 🌟 About Me
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science at [Acadia University](https://www2.acadiau.ca/).
+- 🎓 Currently pursuing a Bachelor's degree in Engineering at [Acadia University](https://www2.acadiau.ca/).
 - 💼 Aspiring to become a skilled software engineer.
 - 🌐 Check out my [GitHub Profile](https://github.com/liamkeats) for my latest projects and contributions.
 
