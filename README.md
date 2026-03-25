@@ -38,7 +38,7 @@ Here are some of the projects I'm proud of:
 <!-- Let's Connect -->
 ## 📫 Let's Connect
 
-- 📧 You can reach me at [keatsliam@gmail.com](keatsliam@gmail.com).
+- 📧 You can reach me at [keatsliamwork@gmail.com](keatsliamwork@gmail.com) or [keatsliam@gmail.com](keatsliam@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/liamkeats/).
 
 <!-- Footer -->
